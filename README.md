@@ -116,7 +116,7 @@ This is expected behavior and consistent with results reported in the literature
 
 The goal is not to maximize this metric, but to analyze and compare the relative behavior of the models.
 
-# 6. Results Summary
+# 5. Results Summary
 
 The table below summarizes the performance of both models using Precision@K under the leave-one-out setup.
 
